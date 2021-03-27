@@ -1,3 +1,7 @@
+Simply clicks the links for full visualizations of all 4 graphs.
+
+To run on local, use http-server on npm, or SimpleHttpServer on python.
+
 [Visualization 1: Click to view full visualization](https://huangxuankun.github.io/D3-Global-Temperature-Trend-Visualization/DataViz_1/Part1/)
 [![name](./docs/Images/1.png)](https://huangxuankun.github.io/D3-Global-Temperature-Trend-Visualization/DataViz_1/Part1/)
 
